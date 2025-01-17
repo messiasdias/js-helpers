@@ -1,0 +1,14 @@
+{
+  "name": "helpers",
+  "version": "1.0.0",
+  "description": "Ferramentas de desenvolvimento javascript",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Messias Dias",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
